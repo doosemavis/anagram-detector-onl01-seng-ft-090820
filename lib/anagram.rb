@@ -6,6 +6,7 @@ class Anagram
   
   def initialize(anagram)
     @anagram = anagram
+    @@all << self
   end 
   
   def match
