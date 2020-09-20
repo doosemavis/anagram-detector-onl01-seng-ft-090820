@@ -9,6 +9,7 @@ class Anagram
   end 
   
   def match(anagram)
+    %w(hello world zombies pants dipper) = []
   end 
   
 end 
