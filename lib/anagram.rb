@@ -14,5 +14,5 @@ class Anagram
   
   def split(anagram)
     %w(ba).split
-  
+  end
 end 
