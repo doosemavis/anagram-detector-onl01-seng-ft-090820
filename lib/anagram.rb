@@ -9,7 +9,6 @@ class Anagram
   end 
   
   def match(string)
-    %w()
   end 
   
 end 
