@@ -8,7 +8,7 @@ class Anagram
     @anagram = anagram
   end 
   
-  def detector(anagram)
+  def match(anagram)
   end 
   
 end 
