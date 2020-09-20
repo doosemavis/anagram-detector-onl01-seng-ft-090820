@@ -9,7 +9,10 @@ class Anagram
   end 
   
   def match(anagram)
-    %w().split
+    %w()
   end 
+  
+  def split(anagram)
+    %w(ba).split
   
 end 
