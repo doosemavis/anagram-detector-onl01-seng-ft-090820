@@ -10,6 +10,7 @@ class Anagram
   
   def match(anagram)
     %w()
+    anagram%w(ba)
   end 
   
 end 
