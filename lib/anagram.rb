@@ -4,6 +4,10 @@ class Anagram
   
   @@all = []
   
+  def initialize(anagram)
+    @anagram = anagram
+  end 
+  
   def match
   end 
   
