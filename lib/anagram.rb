@@ -10,7 +10,6 @@ class Anagram
   
   def match(anagram)
     %w()
-    anagram.split(" ") 
   end 
   
 end 
